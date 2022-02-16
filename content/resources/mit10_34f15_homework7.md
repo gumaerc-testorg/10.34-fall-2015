@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a913451f466ae335e067ef09cbcbaa8e_MIT10_34F15_Homework7.pdf
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a913451f466ae335e067ef09cbcbaa8e_MIT10_34F15_Homework7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Numerical Methods Applied to Chemical Engineering: Homework 7 on Partial Differential
   Equations'

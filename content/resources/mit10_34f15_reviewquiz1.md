@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the information regarding Numerical Methods Applied
   to Chemical Engineering: Quiz 1 Review.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/c49f43ba121c3d8ac5bb82252112b90c_MIT10_34F15_ReviewQuiz1.pdf
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/c49f43ba121c3d8ac5bb82252112b90c_MIT10_34F15_ReviewQuiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 'Numerical Methods Applied to Chemical Engineering: Quiz 1 Review'
 uid: c49f43ba-121c-3d8a-c5bb-82252112b90c

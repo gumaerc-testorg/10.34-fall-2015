@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/2a24b4f80c4494ef179637ebc2fd660e_PKbah48l3AU.srt
+file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/2a24b4f80c4494ef179637ebc2fd660e_PKbah48l3AU.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 2a24b4f8-0c44-94ef-1796-37ebc2fd660e

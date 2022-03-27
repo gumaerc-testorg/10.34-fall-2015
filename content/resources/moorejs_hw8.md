@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 resourcetype: Other
 title: moorejs_HW8.m
 uid: 6b065731-bc79-ef6d-d724-b77d941339d8

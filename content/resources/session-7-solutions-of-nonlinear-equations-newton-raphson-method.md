@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 7: Solutions of Nonlinear Equations; Newton-Raphson Method'
 uid: 83231d61-57ce-7b18-6e71-e2fa6fc130a2
 video_files:

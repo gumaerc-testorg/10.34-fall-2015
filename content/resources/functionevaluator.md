@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 resourcetype: Other
 title: FunctionEvaluator.m
 uid: a81de844-81b9-7884-fef6-f1616ea39733

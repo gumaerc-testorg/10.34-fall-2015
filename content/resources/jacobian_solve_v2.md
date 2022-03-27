@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 resourcetype: Other
 title: jacobian_solve_v2.m
 uid: eb020acb-5b7c-50ad-8249-2bec1ab7acde

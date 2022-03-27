@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 6: Singular Value Decomposition; Iterative Solutions of Linear Equations'
 uid: 72e0947e-abbb-0ab2-4ae8-0b96b1b5bddb
 video_files:

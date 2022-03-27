@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 resourcetype: Other
 title: Foguth_HW5_P1.m
 uid: 6d9c0ae9-2ce8-8440-3b84-25242404c641

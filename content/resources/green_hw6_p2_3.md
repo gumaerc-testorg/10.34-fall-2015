@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 resourcetype: Other
 title: green_HW6_P2_3.zip
 uid: afdf4143-99c5-68a0-8cfc-5f139578fde1

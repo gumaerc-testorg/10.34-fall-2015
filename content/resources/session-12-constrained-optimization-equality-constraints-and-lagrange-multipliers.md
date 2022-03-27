@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 12: Constrained Optimization; Equality Constraints and Lagrange Multipliers'
 uid: 8e3033aa-595d-6806-fd64-5d8c762970f7
 video_files:

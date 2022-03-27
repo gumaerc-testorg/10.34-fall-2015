@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 11: Unconstrained Optimization; Newton-Raphson and Trust Region Methods'
 uid: 9aa8130d-b407-5cea-10aa-f0d0a7ac8a1f
 video_files:

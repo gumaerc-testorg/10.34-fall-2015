@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e2a0e91a-043c-db44-1339-c7f199c69b72
 resourcetype: Document
 title: 'Numerical Methods Applied to Chemical Engineering: Joe Scott notes'
 uid: 80f531a5-c6a9-ec6c-104e-2f5e14af9225

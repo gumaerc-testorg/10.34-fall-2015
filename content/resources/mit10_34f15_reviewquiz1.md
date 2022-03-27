@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 9d170d87-3c6e-62d6-1144-57c45b4ea687
 resourcetype: Document
 title: 'Numerical Methods Applied to Chemical Engineering: Quiz 1 Review'
 uid: c49f43ba-121c-3d8a-c5bb-82252112b90c

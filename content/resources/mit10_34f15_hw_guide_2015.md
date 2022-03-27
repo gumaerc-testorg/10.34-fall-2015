@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 resourcetype: Document
 title: 'Numerical Methods Applied to Chemical Engineering: Homework Submission Guidelines'
 uid: e5f1841a-841b-5910-a3d2-50dcca7b9221

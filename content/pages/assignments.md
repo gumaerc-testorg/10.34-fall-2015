@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 ---
@@ -15,7 +18,7 @@ General
 
 [Sample Homework Solutions (PDF)]({{< baseurl >}}/resources/mit10_34f15_samplehw)
 
-[Tips on Writing Faster MATLAB® Code (PDF)]({{< baseurl >}}/resources/mit10_34f15_writing_2013)
+[Tips on Writing Faster MATLAB{{< sup "®" >}} Code (PDF)]({{< baseurl >}}/resources/mit10_34f15_writing_2013)
 
 [Download TeXstudio](http://www.texstudio.org/) - Because LaTeX is open source software, there are many packages available. TeXstudio is one we recommend but feel free to try others.
 

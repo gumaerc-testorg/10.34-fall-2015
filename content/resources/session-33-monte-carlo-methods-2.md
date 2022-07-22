@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Students continued to learn more about Monte Carlo method and further learned about stochastic chemical kinetics in this lecture.
 
 **Instructor:** William Green
+

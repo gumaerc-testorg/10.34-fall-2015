@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Students continued to learn how to solve optimization problems that include equality contraints and inequality constraints, as well as the Lagrangian solution.
 
 **Instructor:** James Swan
+

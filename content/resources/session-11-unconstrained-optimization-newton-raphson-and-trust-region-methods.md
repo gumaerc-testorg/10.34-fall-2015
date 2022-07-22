@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Students learned how to solve unconstrained optimization problems. In addition of the Newton-Raphson method, students also learned the steepest decent method, as well as the Trust-Region method.
 
 **Instructor:** James Swan
+

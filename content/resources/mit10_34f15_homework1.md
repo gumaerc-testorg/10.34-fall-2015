@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/8667a9707155ad40ccc3706f0a5460a3_MIT10_34F15_Homework1.pdf
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/8667a9707155ad40ccc3706f0a5460a3_MIT10_34F15_Homework1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

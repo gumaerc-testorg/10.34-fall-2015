@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/00dc6375ef11024a898a1c365c0de9f4_P3Code.zip
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/00dc6375ef11024a898a1c365c0de9f4_P3Code.zip
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

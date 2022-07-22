@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** Topics continued on solving problems of ordinary differential equation with initial value. Also introduced concept of functionals and nesting functionals.
 
 **Instructor:** William Green
+

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/941f612fff837b2614c744698d3b1b51_MonteCarloHOOH.m
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/941f612fff837b2614c744698d3b1b51_MonteCarloHOOH.m
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

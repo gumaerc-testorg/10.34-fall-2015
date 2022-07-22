@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** This lecture continued on models vs. data and learned more about the importance of consistency between models and data. Later the lecture changed the topic to operator splitting.
 
 **Instructor:** William Green
+

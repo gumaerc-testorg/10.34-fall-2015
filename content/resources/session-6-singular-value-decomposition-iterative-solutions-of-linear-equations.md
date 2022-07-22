@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -26,3 +28,4 @@ video_metadata:
 **Description:** This is the last lecture on solving linear algebra. It began in recapping what students already learned in eigenvalues, eigenvectors, and eigen decomposition, then conitnued to learn how to find iterative solutions to solve linear equestions.
 
 **Instructor:** James Swan
+

@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/2685bd34d3f168d2d31b42ded7a3eeb9_xE9IGS-_6zo.srt
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/2685bd34d3f168d2d31b42ded7a3eeb9_xE9IGS-_6zo.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page includes the reading assigments for the MIT course 10.34 Numerical
+  Methods Applied to Chemical Engineering of Fall 2015, taught by Prof. William Green,
+  Jr. and Prof. James W. Swan.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -381,7 +384,7 @@ Models vs. data 1
 Models vs. data 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Joe Scott Notes (PDF)]({{< baseurl >}}/resources/mit10_34f15_notesfromjoe)
+{{% resource_link 80f531a5-c6a9-ec6c-104e-2f5e14af9225 "Joe Scott Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -429,7 +432,7 @@ Monte Carlo methods 1
 Monte Carlo methods 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Joe Scott Notes (PDF)]({{< baseurl >}}/resources/mit10_34f15_notesfromjoe)
+{{% resource_link 80f531a5-c6a9-ec6c-104e-2f5e14af9225 "Joe Scott Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

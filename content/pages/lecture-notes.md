@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides all lecture notes for the MIT course 10.34 Numerical
+  Methods Applied to Chemical Engineering of Fall 2015, taught by Prof. William Green,
+  Jr.  and Prof. James W. Swan.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +30,7 @@ SUBJECTS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 1 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit10_34f15_lec01)
+{{% resource_link 5ccbd317-52f6-1f4f-37d3-637f05b78ae4 "Linear algebra 1 (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +39,7 @@ SUBJECTS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 2 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit10_34f15_lec02)
+{{% resource_link 7a64b24d-fac5-335b-0c77-e0d54cd06cd5 "Linear algebra 2 (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +48,7 @@ SUBJECTS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 3 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit10_34f15_lec03)
+{{% resource_link 83188f37-745a-d938-333f-377d24e76e55 "Linear algebra 3 (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +57,7 @@ SUBJECTS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear algebra 4 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit10_34f15_lec04)
+{{% resource_link a5e26247-3b8d-d742-ff8a-8e5afd98848e "Linear algebra 4 (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +66,7 @@ SUBJECTS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 5 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit10_34f15_lec05)
+{{% resource_link eda0e10f-f375-b937-4fd8-d696d2d08481 "Linear algebra 5 (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +75,7 @@ SUBJECTS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Linear algebra 6 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit10_34f15_lec06)
+{{% resource_link b3d5967d-107c-0928-4ab2-73a74fa33212 "Linear algebra 6 (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +84,7 @@ SUBJECTS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Systems of nonlinear equations 1 (PDF - 1.6MB)]({{< baseurl >}}/resources/mit10_34f15_lec07)
+{{% resource_link dda387e8-e2ae-0175-241f-ea57d9135ed7 "Systems of nonlinear equations 1 (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +93,7 @@ SUBJECTS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Systems of nonlinear equations 2 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit10_34f15_lec08)
+{{% resource_link cf15e5d4-453f-c4b4-4a4c-31f1bb13ffb4 "Systems of nonlinear equations 2 (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +102,7 @@ SUBJECTS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Summary and review on linear algebra and systems of nonlinear equations (PDF - 1.3MB)]({{< baseurl >}}/resources/mit10_34f15_lec09)
+{{% resource_link d7574423-6e3f-c0bf-cfc6-a4119b84af74 "Summary and review on linear algebra and systems of nonlinear equations (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +111,7 @@ SUBJECTS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Optimization 1 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec10)
+{{% resource_link 1ff8a9dd-add6-9f21-351c-50644f4f95c8 "Optimization 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +120,7 @@ SUBJECTS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Optimization 2 (PDF - 1.5MB)]({{< baseurl >}}/resources/mit10_34f15_lec11)
+{{% resource_link 0f368dd4-b8bf-f802-fcd2-0d5b05f2ae22 "Optimization 2 (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +129,7 @@ SUBJECTS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Optimization 3 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit10_34f15_lec12)
+{{% resource_link 489a4d00-57e5-b7f8-aaa2-de0da21bebdb "Optimization 3 (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +138,7 @@ SUBJECTS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[ODE-IVP and numerical integration 1 (PDF - 1.7MB)]({{< baseurl >}}/resources/mit10_34f15_lec13)
+{{% resource_link 2a24e45c-b838-36b4-ed57-5dfe4cbef93c "ODE-IVP and numerical integration 1 (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +165,7 @@ ODE-IVP and numerical integration 3
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[ODE-IVP and numerical integration 4 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit10_34f15_lec16)
+{{% resource_link 1d690d22-8d40-51aa-7317-5b567ef61c9a "ODE-IVP and numerical integration 4 (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +183,7 @@ Differential-algebraic equations 1
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Differential-algebraic equations 2 (PDF - 1.8MB )]({{< baseurl >}}/resources/mit10_34f15_lec18)
+{{% resource_link 25770382-1d85-d382-98d9-5962bc24f399 "Differential-algebraic equations 2 (PDF - 1.8MB )" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +192,7 @@ Differential-algebraic equations 1
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Differential-algebraic equations 3 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit10_34f15_lec19)
+{{% resource_link c4dfeaf5-317e-c2bb-ae30-2c346353cb7f "Differential-algebraic equations 3 (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +201,7 @@ Differential-algebraic equations 1
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Boundary value problems 1 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec20)
+{{% resource_link 3cf3e3bf-ef5f-c540-2585-f08e53865f55 "Boundary value problems 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +210,7 @@ Differential-algebraic equations 1
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Boundary value problems 2 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec21)
+{{% resource_link f84380ca-a401-f6bd-a0c5-1c1eb1ab4da8 "Boundary value problems 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +219,7 @@ Differential-algebraic equations 1
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Partial differential equations 1 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec22)
+{{% resource_link 89c6e85d-6b25-8173-922b-9dbebaf51361 "Partial differential equations 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +246,7 @@ Partial differential equations 3
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Summary and review on IVP, differential-algebraic equations, and boundary value (PDF - 1.7MB)]({{< baseurl >}}/resources/mit10_34f15_lec25)
+{{% resource_link f8e7cb2b-e59c-944f-94b1-3ed7f5f6a20f "Summary and review on IVP, differential-algebraic equations, and boundary value (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +255,7 @@ Partial differential equations 3
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Probability theory 1 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec26)
+{{% resource_link a567dac9-c472-b174-8c63-f6522525bf4a "Probability theory 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +273,7 @@ Probability theory 2
 28
 {{< tdclose >}}
 {{< tdopen >}}
-[Models vs. data 1 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec28)
+{{% resource_link 168c68e2-6eab-e2e8-c9f0-ecc5ae2cc161 "Models vs. data 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -279,7 +282,7 @@ Probability theory 2
 29
 {{< tdclose >}}
 {{< tdopen >}}
-[Models vs. data 2 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec29) (Courtesy of Dr. Joseph K. Scott. Used with permission.)
+{{% resource_link a239a43f-f1ad-1238-ac40-b126dfaff4f4 "Models vs. data 2 (PDF)" %}} (Courtesy of Dr. Joseph K. Scott. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +291,7 @@ Probability theory 2
 30
 {{< tdclose >}}
 {{< tdopen >}}
-[Models vs. data 3 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec30)
+{{% resource_link 93e2569c-a191-5ab5-1f61-8de92936b076 "Models vs. data 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +302,7 @@ Probability theory 2
 {{< tdopen >}}
 
 
-[Operator splitting (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec31_1)
+{{% resource_link fbd24f40-68be-aea6-f1ff-c4c4cc70bdf7 "Operator splitting (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -310,7 +313,7 @@ Probability theory 2
 32
 {{< tdclose >}}
 {{< tdopen >}}
-[Monte Carlo methods 1 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec32)
+{{% resource_link 96f9cd4f-2030-5f67-4d0b-101785b09f9b "Monte Carlo methods 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +322,7 @@ Probability theory 2
 33
 {{< tdclose >}}
 {{< tdopen >}}
-[Monte Carlo methods 2 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec33)
+{{% resource_link 175e8fac-63d6-c2ed-68ae-f3537e9f7a0b "Monte Carlo methods 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +331,7 @@ Probability theory 2
 34
 {{< tdclose >}}
 {{< tdopen >}}
-[Stochastic chemical kinetics 1 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec34) (Courtesy of Dr. Joseph K. Scott. Used with permission.)
+{{% resource_link e5b22898-c90e-79a1-bee8-f6d9615c2950 "Stochastic chemical kinetics 1 (PDF)" %}} (Courtesy of Dr. Joseph K. Scott. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -337,7 +340,7 @@ Probability theory 2
 35
 {{< tdclose >}}
 {{< tdopen >}}
-[Stochastic chemical kinetics 2 (PDF)]({{< baseurl >}}/resources/mit10_34f15_lec35)
+{{% resource_link 0ecf6c42-2fe7-fb9b-2a3c-48b66bf56bcc "Stochastic chemical kinetics 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

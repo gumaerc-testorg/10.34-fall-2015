@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page includes the calendar for the MIT course 10.34 Numerical Methods
+  Applied to Chemical Engineering of Fall 2015, taught by Prof. William Green, Jr.  and
+  Prof. James W. Swan.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

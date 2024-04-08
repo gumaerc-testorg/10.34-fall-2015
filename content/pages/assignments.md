@@ -19,9 +19,9 @@ uid: 4ce395e4-40c5-acc1-be51-f389b4029689
 
 {{% resource_link 90652087-fcf6-2047-31be-7630894bec79 "Tips on Writing Faster MATLAB" %}}{{< sup \"®\" >}} {{% resource_link 90652087-fcf6-2047-31be-7630894bec79 " Code (PDF)" %}}
 
-[Download TeXstudio](http://www.texstudio.org/) - Because LaTeX is open source software, there are many packages available. TeXstudio is one we recommend but feel free to try others.
+{{% resource_link "c6dc9d4f-2f29-44ed-81b6-128e8e897717" "Download TeXstudio" %}} - Because LaTeX is open source software, there are many packages available. TeXstudio is one we recommend but feel free to try others.
 
-[Install MikTeX](https://web.archive.org/web/20161127071614/http://www.howtotex.com/howto/installing-latex-on-windows/) - Windows users will need to install MikTeX in addition to TeXstudio to run LaTeX on your computer.
+{{% resource_link "1f1bb90a-9f96-4d3d-899e-83a03124a161" "Install MikTeX" %}} - Windows users will need to install MikTeX in addition to TeXstudio to run LaTeX on your computer.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 #
@@ -35,7 +35,7 @@ SUPPLEMENTAL FILES
 
 {{% resource_link 228a65c9-4213-c3f7-807b-95e78a8ca472 "Homework 0 on MATLAB and Linear Algebra (PDF)" %}} (Max points = 60)
 
-Reading for problem 3: Bao, Jie, and Moungi G. Bawendi. "[A Colloidal Quantum Dot Spectrometer](http://dx.doi.org/10.1038/nature14576)." _Nature_ 523, no. 7558 (2015): 67–70.
+Reading for problem 3: Bao, Jie, and Moungi G. Bawendi. "{{% resource_link "6aea6a42-440c-4913-a35d-1c09c112cec7" "A Colloidal Quantum Dot Spectrometer" %}}." _Nature_ 523, no. 7558 (2015): 67–70.
 
 {{< tdclose >}}{{< tdopen >}}
 

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/c7a16799866075e0335e1c99a0c1bc68_swan_HW2_2.m
+file_size: 1038
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments

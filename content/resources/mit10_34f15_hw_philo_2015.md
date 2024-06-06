@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/7f99f95098f4a1fe7b074e90d5c81ffd_MIT10_34F15_HW_Philo_2015.pdf
+file_size: 80177
 file_type: application/pdf
 learning_resource_types:
 - Assignments

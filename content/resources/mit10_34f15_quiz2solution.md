@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding Numerical Methods Applied
   to Chemical Engineering: Practice Quiz 2 Solution.'
 file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/54a2894ed0c14bfa635944c2904be8c1_MIT10_34F15_Quiz2solution.pdf
+file_size: 321435
 file_type: application/pdf
 learning_resource_types:
 - Exams

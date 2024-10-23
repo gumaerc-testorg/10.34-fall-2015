@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Numerical Methods Applied
   to Chemical Engineering: Practice Quiz 2.'
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/d7339c1f493c58067e2c63e45b74bc67_MIT10_34F15_Quiz2.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/d7339c1f493c58067e2c63e45b74bc67_MIT10_34F15_Quiz2.pdf
 file_size: 668754
 file_type: application/pdf
 learning_resource_types:

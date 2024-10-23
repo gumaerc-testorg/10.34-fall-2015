@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Numerical Methods Applied
   to Chemical Engineering: Quiz 1 Review.'
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/c49f43ba121c3d8ac5bb82252112b90c_MIT10_34F15_ReviewQuiz1.pdf
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/c49f43ba121c3d8ac5bb82252112b90c_MIT10_34F15_ReviewQuiz1.pdf
 file_size: 271877
 file_type: application/pdf
 learning_resource_types:

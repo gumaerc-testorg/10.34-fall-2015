@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding homework 6 p1 code.
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/1455dceb58c0933f0ac3d942c0f1a237_moorejs_HW6_P1.m
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/1455dceb58c0933f0ac3d942c0f1a237_moorejs_HW6_P1.m
 file_size: 3246
 file_type: text/x-objcsrc
 learning_resource_types:

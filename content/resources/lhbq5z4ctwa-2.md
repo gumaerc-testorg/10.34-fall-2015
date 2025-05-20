@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/c17748bc9a71565997134a651191681c_LHBQ5Z4CtwA.vtt
+file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/c17748bc9a71565997134a651191681c_LHBQ5Z4CtwA.vtt
 file_size: 81764
 file_type: application/x-subrip
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/941f612fff837b2614c744698d3b1b51_MonteCarloHOOH.m
+file: /ol-ocw-studio-app/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/941f612fff837b2614c744698d3b1b51_MonteCarloHOOH.m
 file_size: 8515
 file_type: text/x-objcsrc
 learning_resource_types:

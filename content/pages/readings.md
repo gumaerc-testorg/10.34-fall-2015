@@ -10,7 +10,7 @@ title: Readings
 uid: e2a0e91a-043c-db44-1339-c7f199c69b72
 ---
 
-\[Beers\] = Beers, Kenneth J. _Numerical Methods for Chemical Engineering: Applications in MATLAB{{< sup "®" >}}_. Cambridge University Press, 2006. ISBN: 9780521859714. \[Preview with [Google Books](http://books.google.com/books?id=_dycW5UTVc0C&pg=PAfrontcover)\]
+\[Beers\] = Beers, Kenneth J. _Numerical Methods for Chemical Engineering: Applications in MATLAB{{< sup "®" >}}_. Cambridge University Press, 2006. ISBN: 9780521859714. \[Preview with {{% resource_link "a64bf596-9b93-4b0d-bac0-73b0e7836b63" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
